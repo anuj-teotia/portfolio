@@ -1,0 +1,132 @@
+{
+  "name": "Anuj Teotia",
+  "label": "",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "anuj.teotia@live.com",
+    "phone": "",
+    "location": "Noida, India"
+  },
+  "summary": "DevOps Lead with 11+ years of experience in designing, implementing, and managing cloud-native infrastructure. My expertise spans AWS, Azure, Kubernetes, Terraform, CI/CD automation, observability, and cloud security. I focus on optimizing deployments, enhancing system reliability, and automating workflows to drive efficiency",
+  "url": "https://anuj-teotia.github.io/portfolio/",
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/anuj-teotia-729448283/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/anuj-teotia",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "TO THE NEW PVT. LTD.",
+      "position": "DevOps Lead",
+      "url": "https://www.tothenew.com/",
+      "start_date": "November 2018",
+      "end_date": "Present",
+      "summary": "",
+      "highlights": [
+        "Designed cloud migration strategies to help customers seamlessly transition to scalable and secure cloud environments.",
+        "Implemented AI-driven code review and DevOps practices, boosting productivity and reliability by 10x.",
+        "Optimized cloud cost management, reducing expenses by up to 50% for multiple clients.",
+        "Led a team of 10 engineers in building and maintaining CI/CD pipelines, enhancing deployment speed and reliability.",
+        "Developed and maintained infrastructure as code (IaC) using Terraform, ensuring consistent and repeatable deployments.",
+        "Implemented monitoring and alerting solutions using Prometheus and Grafana, improving system observability and incident response times.",
+        "Conducted training sessions and workshops on cloud technologies, DevOps practices, AI for DevOps and CI/CD tools, fostering a culture of continuous learning within the team.",
+        "Kubernetes and Docker: Designed and managed container orchestration solutions, ensuring high availability and scalability of applications.",
+        "Cloud Security: Implemented security best practices for cloud environments, including identity and access management, data encryption, and compliance monitoring.",
+        "Collaboration: Worked closely with development teams to integrate DevOps practices into the software development lifecycle, promoting a culture of collaboration and shared responsibility."
+      ]
+    },
+    {
+      "company": "Samin Tekmindz Pvt. Ltd.",
+      "position": " Sr. DevOps Engineer",
+      "url": "https://www.tekmindz.com/",
+      "start_date": "2017",
+      "end_date": "2018",
+      "summary": "",
+      "highlights": [
+        "Designed and implemented CI/CD pipelines using Jenkins, Github Actions, and AWS Codebuild, reducing deployment times by 30%.",
+        "Managed cloud infrastructure on AWS and Azure, ensuring high availability and scalability of applications.",
+        "Automated infrastructure provisioning using Terraform and CloudFormation, improving deployment consistency and reducing manual errors.",
+        "Implemented monitoring and logging solutions using ELK stack and Prometheus, enhancing system observability and incident response.",
+        "Collaborated with development teams to integrate DevOps practices into the software development lifecycle.",
+        "Managed Windows Domian Controller and Active Directory, ensuring secure access to resources and applications.",
+        "Responsible for ISO 27001 compliance, ensuring adherence to security standards and best practices.",
+        "Implemented security best practices for cloud environments, including identity and access management, data encryption, and compliance monitoring.",
+        "AWS FTR (Foundational Technical Review): Conducted technical reviews of AWS architectures to ensure best practices and compliance with AWS Well-Architected Framework.",
+        "Managed Company internal Sonicwall Firewall, ensuring network security and access control."
+      ]
+    },
+    {
+      "company": "HyTech Professionals Pvt. Ltd.",
+      "position": "Sr. System Administrator",
+      "url": "https://www.hytechpro.com/",
+      "start_date": "2014",
+      "end_date": "2017",
+      "summary": "",
+      "highlights": [
+        "Implemneted AWS cloud infrastructure for multiple clients, ensuring high availability and scalability of applications.",
+        "CI/CD Automation: Designed and implemented CI/CD pipelines using Jenkins reducing deployment times.",
+        "Managed and maintained Windows and Linux servers, ensuring high availability and performance.",
+        "Implemented backup and disaster recovery solutions, ensuring data integrity and availability.",
+        "Configured and managed Active Directory, DNS, DHCP, and Group Policy for Windows environments.",
+        "Automated system administration tasks using PowerShell and Bash scripting, improving efficiency and reducing manual errors.",
+        "Provided technical support to end-users, resolving hardware and software issues in a timely manner.",
+        "Managed network infrastructure, including firewalls, switches, and routers, ensuring secure and reliable connectivity.",
+        "Implemented security best practices for server environments, including patch management, antivirus solutions, and access control."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Sikkim Manipal University",
+      "location": "Noida, UP, India",
+      "url": "https://smude.edu.in/smude.html",
+      "degrees": [
+        "Bachelor of Computer Applications"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "AWS, Terrafrom, Linux, Kubernetes, Docker, CI/CD, IAC, DevOps, Cloud Security",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Windows Administration, Active Directory, DNS, DHCP, Group Policy, Python, PowerShell, Bash Scripting",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Azure, GCP, AI/ML, Langchain, OpenAI, Golang, Typescript, AWS CDK",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading Books",
+      "summary": ""
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "fluency": 100,
+      "fluency_label": "Fluent"
+    },
+    {
+      "name": "Hindi",
+      "fluency": 100,
+      "fluency_label": "Fluent"
+    }
+  ],
+  "references": []
+}
